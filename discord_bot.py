@@ -12,23 +12,12 @@ intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 # For release
-tree.add_command(
-    MCGame(),
-    guilds=[
-        discord.Object(id=os.getenv("UKCES_GUILD_ID")),
-        discord.Object(id=os.getenv("TEST_GUILD_ID")),
-    ],
-)
-# For testing
-# tree.add_command(MCGame(), guilds=[discord.Object(id=os.getenv("TEST_GUILD_ID"))])
+tree.add_command(MCGame(), guild=discord.Object(id=os.getenv("GUILD_ID")))
 
 
 @client.event
 async def on_ready():
-    # For release
-    await tree.sync(guild=discord.Object(id=os.getenv("UKCES_GUILD_ID")))
-    # For testing and release
-    await tree.sync(guild=discord.Object(id=os.getenv("TEST_GUILD_ID")))
+    await tree.sync(guild=discord.Object(id=os.getenv("GUILD_ID")))
     print(f"We have logged in as {client.user}")
 
 
