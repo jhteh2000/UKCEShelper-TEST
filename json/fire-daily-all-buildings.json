@@ -1,0 +1,248 @@
+{
+    "Monday": {
+        "ARF": [
+            "AF - ARF - 1 - Monday - 1",
+            "AF - ARF - 1 - Monday - 2",
+            "AF - ARF - 1 - Monday - 3",
+            "AF - ARF - 1 - Monday - 4"
+        ],
+        "Co-Responder": [
+            "AF - Co-Responder - 1 - Monday - 1",
+            "AF - Co-Responder - 1 - Monday - 2"
+        ],
+        "Fire Drone Operator": [
+            "AF - Fire Drone Operator - 1 - Mon - 1",
+            "AF - Fire Drone Operator - 1 - Mon - 2"
+        ],
+        "Fire Lifeguard": [
+            "AF - Fire Lifeguard - 1 - Monday - 1",
+            "AF - Fire Lifeguard - 1 - Monday - 2"
+        ],
+        "Hazmat": [
+            "AF - Hazmat -1 - Monday - 1",
+            "AF - Hazmat -1 - Monday - 2",
+            "AF - Hazmat - 1 - Monday - 3",
+            "AF - Hazmat - 1 - Monday - 4"
+        ],
+        "HVPT": [
+            "AF - HVPT 01 - Monday - 1",
+            "AF - HVPT 02 - Monday - 2"
+        ],
+        "Mobile Command": [
+            "AF - Mobile Command - 1 - Monday - 1",
+            "AF - Mobile Command - 1 - Monday - 2",
+            "AF - Mobile Command - 1 - Monday - 3"
+        ]
+    },
+    "Tuesday": {
+        "ARF": [
+            "AF - ARF - 2 - Tuesday - 1",
+            "AF - ARF - 2 - Tuesday - 2",
+            "AF - ARF - 2 - Tuesday - 3",
+            "AF - ARF - 2 - Tuesday - 4"
+        ],
+        "Co-Responder": [
+            "AF - Co-Responder - 2 - Tuesday - 1",
+            "AF - Co-Responder - 2 - Tuesday - 2"
+        ],
+        "Fire Drone Operator": [
+            "AF - Fire Drone Operator - 2 - Tue - 1",
+            "AF - Fire Drone Operator - 2 - Tue - 2"
+        ],
+        "Fire Lifeguard": [
+            "AF - Fire Lifeguard - 2 - Tuesday - 1",
+            "AF - Fire Lifeguard - 2 - Tuesday - 2"
+        ],
+        "Hazmat": [
+            "AF - Hazmat - 2 - Tuesday - 1",
+            "AF - Hazmat - 2 - Tuesday- 2",
+            "AF - Hazmat - 2 - Tuesday - 3",
+            "AF - Hazmat - 2 - Tuesday - 4"
+        ],
+        "HVPT": [
+            "AF - HVPT 03 - Tuesday - 1",
+            "AF - HVPT 04 - Tuesday - 2"
+        ],
+        "Mobile Command": [
+            "AF - Mobile Command - 2 - Tuesday - 1",
+            "AF - Mobile Command - 2 - Tuesday - 2",
+            "AF - Mobile Command - 2 - Tuesday - 3"
+        ]
+    },
+    "Wednesday": {
+        "ARF": [
+            "AF - ARF - 3 - Wednesday - 1",
+            "AF - ARF - 3 - Wednesday - 2",
+            "AF - ARF - 3 - Wednesday - 3",
+            "AF - ARF - 3 - Wednesday - 4"
+        ],
+        "Co-Responder": [
+            "AF - Co-Responder - 3 - Wednesday - 1",
+            "AF - Co-Responder - 3 - Wednesday - 2"
+        ],
+        "Fire Drone Operator": [
+            "AF - Fire Drone Operator - 3 - Wed - 1",
+            "AF - Fire Drone Operator - 3 - Wed - 2"
+        ],
+        "Fire Lifeguard": [
+            "AF - Fire Lifeguard - 3 - Wednesday - 1",
+            "AF - Fire Lifeguard - 3 - Wednesday - 2"
+        ],
+        "Hazmat": [
+            "AF - Hazmat - 3 - Wednesday - 1",
+            "AF - Hazmat - 3 - Wednesday - 2",
+            "AF - Hazmat - 3 - Wednesday - 3",
+            "AF - Hazmat - 3 - Wednesday - 4"
+        ],
+        "HVPT": [
+            "AF - HVPT 05 - Wednesday - 1",
+            "AF - HVPT 05 - Wednesday - 3",
+            "AF - HVPT 06 - Wednesday - 2"
+        ],
+        "Mobile Command": [
+            "AF - Mobile Command - 3 - Wednesday - 1",
+            "AF - Mobile Command - 3 - Wednesday - 2",
+            "AF - Mobile Command - 3 - Wednesday - 3"
+        ]
+    },
+    "Thursday": {
+        "ARF": [
+            "AF - ARF - 4 - Thursday - 1",
+            "AF - ARF - 4 - Thursday - 2",
+            "AF - ARF - 4 - Thursday - 3",
+            "AF - ARF - 4 - Thursday - 4"
+        ],
+        "Co-Responder": [
+            "AF - Co-Responder - 4 - Thursday - 1",
+            "AF - Co-Responder - 4 - Thursday - 2"
+        ],
+        "Fire Drone Operator": [
+            "AF - Fire Drone Operator - 4 - Thu - 1",
+            "AF - Fire Drone Operator - 4 - Thu - 2"
+        ],
+        "Fire Lifeguard": [
+            "AF - Fire Lifeguard - 4 - Thursday - 1",
+            "AF - Fire Lifeguard - 4 - Thursday - 2"
+        ],
+        "Hazmat": [
+            "AF - Hazmat - 4 - Thursday - 1",
+            "AF - Hazmat - 4 - Thursday - 2",
+            "AF - Hazmat - 4 - Thursday - 3",
+            "AF - Hazmat - 4 - Thursday - 4"
+        ],
+        "HVPT": [
+            "AF - HVPT 07 - Thursday - 1",
+            "AF - HVPT 08 - Thursday - 2"
+        ],
+        "Mobile Command": [
+            "AF - Mobile Command - 4 - Thursday - 1",
+            "AF - Mobile Command - 4 - Thursday - 2",
+            "AF - Mobile Command - 4 - Thursday - 3"
+        ]
+    },
+    "Friday": {
+        "ARF": [
+            "AF - ARF - 5 - Friday - 1",
+            "AF - ARF - 5 - Friday - 2",
+            "AF - ARF - 5 - Friday - 3",
+            "AF - ARF - 5 - Friday - 4"
+        ],
+        "Co-Responder": [
+            "AF - Co-Responder - 5 - Friday - 1",
+            "AF - Co-Responder - 5 - Friday - 2"
+        ],
+        "Fire Drone Operator": [
+            "AF - Fire Drone Operator - 5 - Fri - 1",
+            "AF - Fire Drone Operator - 5 - Fri - 2"
+        ],
+        "Fire Lifeguard": [
+            "AF - Fire Lifeguard - 5 - Friday - 1",
+            "AF - Fire Lifeguard - 5 - Friday - 2"
+        ],
+        "Hazmat": [
+            "AF - Hazmat - 5 - Friday - 1",
+            "AF - Hazmat - 5 - Friday - 2",
+            "AF - Hazmat - 5 - Friday - 3",
+            "AF - Hazmat - 5 - Friday - 4"
+        ],
+        "HVPT": [
+            "AF - HVPT 09 - Friday - 1",
+            "AF - HVPT 10 - Friday - 2"
+        ],
+        "Mobile Command": [
+            "AF - Mobile Command - 5 - Friday - 1",
+            "AF - Mobile Command - 5 - Friday - 2",
+            "AF - Mobile Command - 5 - Friday - 3"
+        ]
+    },
+    "Saturday": {
+        "ARF": [
+            "AF - ARF - 6 - Saturday - 1",
+            "AF - ARF - 6 - Saturday - 2",
+            "AF - ARF - 6 - Saturday - 3",
+            "AF - ARF - 6 - Saturday - 4"
+        ],
+        "Co-Responder": [
+            "AF - Co-Responder - 6 - Saturday - 1",
+            "AF - Co-Responder - 6 - Saturday - 2"
+        ],
+        "Fire Drone Operator": [
+            "AF - Fire Drone Operator - 6 - Sat - 1",
+            "AF - Fire Drone Operator - 6 - Sat - 2"
+        ],
+        "Fire Lifeguard": [
+            "AF - Fire Lifeguard - 6 - Saturday - 1",
+            "AF - Fire Lifeguard - 6 - Saturday - 2"
+        ],
+        "Hazmat": [
+            "AF - Hazmat - 6 - Saturday - 1",
+            "AF - Hazmat - 6 - Saturday - 2",
+            "AF - Hazmat - 6 - Saturday - 3",
+            "AF - Hazmat - 6 - Saturday - 4"
+        ],
+        "HVPT": [
+            "AF - HVPT 11 - Saturday - 1",
+            "AF - HVPT 12 - Saturday - 2"
+        ],
+        "Mobile Command": [
+            "AF - Mobile Command - 6 - Saturday - 1",
+            "AF - Mobile Command - 6 - Saturday - 2",
+            "AF - Mobile Command - 6 - Saturday - 3"
+        ]
+    },
+    "Sunday": {
+        "ARF": [
+            "AF - ARF - 7 - Sunday - 1",
+            "AF - ARF - 7 - Sunday - 2",
+            "AF - ARF - 7 - Sunday - 3",
+            "AF - ARF - 7 - Sunday - 4"
+        ],
+        "Co-Responder": [
+            "AF - Co-Responder - 7 - Sunday - 1",
+            "AF - Co-Responder - 7 - Sunday - 2"
+        ],
+        "Fire Drone Operator": [
+            "AF - Fire Drone Operator - 7 - Sun - 1",
+            "AF - Fire Drone Operator - 7 - Sun - 2"
+        ],
+        "Fire Lifeguard": [
+            "AF - Fire Lifeguard - 6 - Sunday - 1",
+            "AF - Fire Lifeguard - 6 - Sunday - 2"
+        ],
+        "Hazmat": [
+            "AF - Hazmat - 7 - Sunday - 1",
+            "AF - Hazmat - 7 - Sunday - 2",
+            "AF - Hazmat - 7 - Sunday - 3",
+            "AF - Hazmat - 7 - Sunday - 4"
+        ],
+        "HVPT": [
+            "AF - HVPT - 7 - Sunday - 1",
+            "AF - HVPT - 7 - Sunday - 2"
+        ],
+        "Mobile Command": [
+            "AF - Mobile Command - 7 - Sunday - 1",
+            "AF - Mobile Command - 7 - Sunday - 2",
+            "AF - Mobile Command - 7 - Sunday - 3"
+        ]
+    }
+}

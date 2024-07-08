@@ -1,0 +1,378 @@
+{
+    "Monday": {
+        "Dog Handling": [
+            "AE - Dog Handling - 1 - Monday - 1",
+            "AE - Dog Handling - 1 - Monday - 2"
+        ],
+        "Drone Operator": [
+            "AE - Drone Operator - 1 - Mon 1",
+            "AE - Drone Operator - 1 - Mon 2"
+        ],
+        "Firearms": [
+            "AE - Firearms - 1 - Monday - 1",
+            "AE - Firearms - 1 - Monday - 2",
+            "AE - Firearms - 1 - Monday - 3",
+            "AE - Firearms - 1 - Monday - 4"
+        ],
+        "Level 1 Public Order": [
+            "AE - Level 1 Public Order - 1 - Monday 1",
+            "AE - Level 1 Public Order - 1 - Monday 2"
+        ],
+        "Level 2 Public Order": [
+            "AE - Level 2 Public Order - 1 - Mon 1",
+            "AE - Level 2 Public Order - 1 - Mon 2"
+        ],
+        "Mounted Police": [
+            "AE - Mounted Police - 1 - Mon 1",
+            "AE - Mounted Police - 1 - Mon 2"
+        ],
+        "Police Aviation": [
+            "AE - Police Aviation - 1 - Monday - 1",
+            "AE - Police Aviation - 1 - Monday - 2"
+        ],
+        "Police Inspector": [
+            "AE - Police Inspector - 1 - Mon 1",
+            "AE - Police Inspector - 1 - Mon 2"
+        ],
+        "Police Medic": [
+            "AE - Police Medic - 1 - Mon 1",
+            "AE - Police Medic - 1 - Mon 2"
+        ],
+        "Police Search Advisor": [
+            "AE - Police Search Advisor - 1 - Mon - 1",
+            "AE - Police Search Advisor - 1 - Mon - 2"
+        ],
+        "Police Sergeant": [
+            "AE - Police Sergeant -1 - Mon 1",
+            "AE - Police Sergeant - 1 - Mon 2"
+        ],
+        "Roads Policing": [
+            "AE - Roads Policing - 1 - Monday - 1",
+            "AE - Roads Policing - 1 - Monday - 2"
+        ]
+    },
+    "Tuesday": {
+        "Dog Handling": [
+            "AE - Dog Handling - 2 - Tuesday - 1",
+            "AE - Dog Handling - 2 - Tuesday - 2"
+        ],
+        "Drone Operator": [
+            "AE - Drone Operator - 2 - Tue 1",
+            "AE - Drone Operator - 2 - Tue 2"
+        ],
+        "Firearms": [
+            "AE - Firearms - 2 - Tuesday - 1",
+            "AE - Firearms - 2 - Tuesday - 2",
+            "AE - Firearms - 2 - Tuesday - 3",
+            "AE - Firearms - 2 - Tuesday - 4"
+        ],
+        "Level 1 Public Order": [
+            "AE - Level 1 Public Order - 2 - Tues 1",
+            "AE - Level 1 Public Order - 2 - Tues 2"
+        ],
+        "Level 2 Public Order": [
+            "AE - Level 2 Public Order - 2 - Tues 1",
+            "AE - Level 2 Public Order - 2 - Tues 2"
+        ],
+        "Mounted Police": [
+            "AE - Mounted Police - 2 - Tues 1",
+            "AE - Mounted Police - 2 - Tues 2"
+        ],
+        "Police Aviation": [
+            "AE - Police Aviation - 2 - Tuesday - 1",
+            "AE - Police Aviation - 2 - Tuesday - 2"
+        ],
+        "Police Inspector": [
+            "AE - Police Inspector - 2 - Tues 1",
+            "AE - Police Inspector - 2 - Tues 2"
+        ],
+        "Police Medic": [
+            "AE - Police Medic - 2 - Tues 1",
+            "AE - Police Medic - 2 - Tues 2"
+        ],
+        "Police Search Advisor": [
+            "AE - Police Search Advisor - 2 - Tue - 1",
+            "AE - Police Search Advisor - 2 - Tue - 2",
+            "AE - Police Search Advisor - 2 - Tue 3",
+            "AE - Police Search Advisor - 2 - Tue 4"
+        ],
+        "Police Sergeant": [
+            "AE - Police Sergeant - 2 - Tues 1",
+            "AE - Police Sergeant - 2 - Tues 2"
+        ],
+        "Roads Policing": [
+            "AE - Roads Policing - 2 - Tues - 1",
+            "AE - Roads Policing - 2 - Tues - 2"
+        ]
+    },
+    "Wednesday": {
+        "Dog Handling": [
+            "AE - Dog Handling - 3 - Wednesday - 1",
+            "AE - Dog Handling - 3 - Wednesday - 2"
+        ],
+        "Drone Operator": [
+            "AE - Drone Operator - 3 - Wed 1",
+            "AE - Drone Operator - 3 - Wed 2"
+        ],
+        "Firearms": [
+            "AE - Firearms - 3 - Wednesday - 1",
+            "AE - Firearms - 3 - Wednesday - 2",
+            "AE - Firearms - 3 - Wednesday - 3",
+            "AE - Firearms - 3 - Wednesday - 4"
+        ],
+        "Level 1 Public Order": [
+            "AE - Level 1 Public Order - 3 - Wed 1",
+            "AE - Level 1 Public Order - 3 - Wed 2"
+        ],
+        "Level 2 Public Order": [
+            "AE - Level 2 Public Order - 3 - Wed 1",
+            "AE - Level 2 Public Order - 3 - Wed 2"
+        ],
+        "Mounted Police": [
+            "AE - Mounted Police - 3 - Wed 1",
+            "AE - Mounted Police - 3 - Wed 2"
+        ],
+        "Police Aviation": [
+            "AE - Police Aviation - 3 - Wed - 1",
+            "AE - Police Aviation - 3 - Wed - 2"
+        ],
+        "Police Inspector": [
+            "AE - Police Inspector - 3 - Wed 1",
+            "AE - Police Inspector - 3 - Wed 2"
+        ],
+        "Police Medic": [
+            "AE - Police Medic - 3 - Wed 1",
+            "AE - Police Medic - 3 - Wed 2"
+        ],
+        "Police Search Advisor": [
+            "AE - Police Search Advisor - 3 - Wed - 1",
+            "AE - Police Search Advisor - 3 - Wed - 2",
+            "AE - Police Search Advisor - 3 - Wed 3",
+            "AE - Police Search Advisor - 3 - Wed 4"
+        ],
+        "Police Sergeant": [
+            "AE - Police Sergeant - 3 - Wed 1",
+            "AE - Police Sergeant - 3 - Wed 2"
+        ],
+        "Roads Policing": [
+            "AE - Roads Policing - 3 - Weds - 1",
+            "AE - Roads Policing - 3 - Weds - 2"
+        ]
+    },
+    "Thursday": {
+        "Dog Handling": [
+            "AE - Dog Handling - 4 - Thursday - 1",
+            "AE - Dog Handling - 4 - Thursday - 2"
+        ],
+        "Drone Operator": [
+            "AE - Drone Operator - 4 - Thu 1",
+            "AE - Drone Operator - 4 - Thu 2"
+        ],
+        "Firearms": [
+            "AE - Firearms - 4 - Thursday - 1",
+            "AE - Firearms - 4 - Thursday - 2",
+            "AE - Firearms - 4 - Thursday - 3",
+            "AE - Firearms - 4 - Thursday - 4"
+        ],
+        "Level 1 Public Order": [
+            "AE - Level 1 Public Order - 4 - Thurs 1",
+            "AE - Level 1 Public Order - 4 - Thurs 2"
+        ],
+        "Level 2 Public Order": [
+            "AE - Level 2 Public Order - 4 - Thurs 1",
+            "AE - Level 2 Public Order - 4 - Thurs 2"
+        ],
+        "Mounted Police": [
+            "AE - Mounted Police - 4 - Thurs 1",
+            "AE - Mounted Police - 4 - Thurs 2"
+        ],
+        "Police Aviation": [
+            "AE - Police Aviation - 4 - Thursday - 1",
+            "AE - Police Aviation - 4 - Thursday - 2"
+        ],
+        "Police Inspector": [
+            "AE - Police Inspector - 4 - Thurs 1",
+            "AE - Police Inspector - 4 - Thurs 2"
+        ],
+        "Police Medic": [
+            "AE - Police Medic - 4 - Thurs 1",
+            "AE - Police Medic - 4 - Thurs 2"
+        ],
+        "Police Search Advisor": [
+            "AE - Police Search Advisor - 4 - Thu - 1",
+            "AE - Police Search Advisor - 4 - Thu - 2",
+            "AE - Police Search Advisor - 4 - Thu 3",
+            "AE - Police Search Advisor - 4 - Thu 4"
+        ],
+        "Police Sergeant": [
+            "AE - Police Sergeant - 4 -Thurs 1",
+            "AE - Police Sergeant - 4 - Thurs 2"
+        ],
+        "Roads Policing": [
+            "AE - Roads Policing - 4 - Thurs - 1",
+            "AE - Roads Policing - 4 - Thurs - 2"
+        ]
+    },
+    "Friday": {
+        "Dog Handling": [
+            "AE - Dog Handling - 5 - Friday - 1",
+            "AE - Dog Handling - 5 - Friday - 2"
+        ],
+        "Drone Operator": [
+            "AE - Drone Operator - 5 - Fri 1",
+            "AE - Drone Operator - 5 - Fri 2"
+        ],
+        "Firearms": [
+            "AE - Firearms - 5 - Friday - 1",
+            "AE - Firearms - 5 - Friday - 2",
+            "AE - Firearms - 5 - Friday - 3",
+            "AE - Firearms - 5 - Friday - 4"
+        ],
+        "Level 1 Public Order": [
+            "AE - Level 1 Public Order - 5 - Fri 1",
+            "AE - Level 1 Public Order - 5 - Fri 2"
+        ],
+        "Level 2 Public Order": [
+            "AE - Level 2 Public Order - 5 - Fri 1",
+            "AE - Level 2 Public Order - 5 - Fri 2"
+        ],
+        "Mounted Police": [
+            "AE - Mounted Police - 5 - Fri 1",
+            "AE - Mounted Police - 5 - Fri 2"
+        ],
+        "Police Aviation": [
+            "AE - Police Aviation - 5 - Friday - 1",
+            "AE - Police Aviation - 5 - Friday - 2"
+        ],
+        "Police Inspector": [
+            "AE - Police Inspector - 5 - Fri 1",
+            "AE - Police Inspector - 5 - Fri 2"
+        ],
+        "Police Medic": [
+            "AE - Police Medic - 5 - Fri 1",
+            "AE - Police Medic - 5 - Fri 2"
+        ],
+        "Police Search Advisor": [
+            "AE - Police Search Advisor - 5 - Fri - 1",
+            "AE - Police Search Advisor - 5 - Fri - 2",
+            "AE - Police Search Advisor - 5 - Fri 3",
+            "AE - Police Search Advisor - 5 - Fri 4"
+        ],
+        "Police Sergeant": [
+            "AE - Police Sergeant - 5 - Fri 1",
+            "AE - Police Sergeant - 5 - Fri 2"
+        ],
+        "Roads Policing": [
+            "AE - Roads Policing - 5 - Friday - 1",
+            "AE - Roads Policing - 5 - Friday - 2"
+        ]
+    },
+    "Saturday": {
+        "Dog Handling": [
+            "AE - Dog Handling - 6 - Saturday - 1",
+            "AE - Dog Handling - 6 - Saturday - 2"
+        ],
+        "Drone Operator": [
+            "AE - Drone Operator - 6 - Sat 1",
+            "AE - Drone Operator - 6 - Sat 2"
+        ],
+        "Firearms": [
+            "AE - Firearms - 6 - Saturday - 1",
+            "AE - Firearms - 6 - Saturday - 2",
+            "AE - Firearms - 6 - Saturday - 3",
+            "AE - Firearms - 6 - Saturday - 4"
+        ],
+        "Level 1 Public Order": [
+            "AE - Level 1 Public Order - 6 - Sat 1",
+            "AE - Level 1 Public Order - 6 - Sat 2"
+        ],
+        "Level 2 Public Order": [
+            "AE - Level 2 Public Order - 6 - Sat 1",
+            "AE - Level 2 Public Order - 6 - Sat 2"
+        ],
+        "Mounted Police": [
+            "AE - Mounted Police - 6 - Sat 1",
+            "AE - Mounted Police - 6 - Sat 2"
+        ],
+        "Police Aviation": [
+            "AE - Police Aviation - 6 - Saturday - 1",
+            "AE - Police Aviation - 6 - Saturday - 2"
+        ],
+        "Police Inspector": [
+            "AE - Police Inspector - 6 - Sat 1",
+            "AE - Police Inspector - 6 - Sat 2"
+        ],
+        "Police Medic": [
+            "AE - Police Medic - 6 - Sat 1",
+            "AE - Police Medic - 6 - Sat 2"
+        ],
+        "Police Search Advisor": [
+            "AE - Police Search Advisor - 6 - Sat - 1",
+            "AE - Police Search Advisor - 6 - Sat - 2",
+            "AE - Police Search Advisor - 6 - Sat 3",
+            "AE - Police Search Advisor - 6 - Sat 4"
+        ],
+        "Police Sergeant": [
+            "AE - Police Sergeant - 6 - Sat 1",
+            "AE - Police Sergeant - 6 - Sat 2"
+        ],
+        "Roads Policing": [
+            "AE - Roads Policing - 6 - Sat - 1",
+            "AE - Roads Policing - 6 - Sat - 2"
+        ]
+    },
+    "Sunday": {
+        "Dog Handling": [
+            "AE - Dog Handling - 7 - Sunday - 1",
+            "AE - Dog Handling - 7 - Sunday - 2"
+        ],
+        "Drone Operator": [
+            "AE - Drone Operator - 7 - Sun 1",
+            "AE - Drone Operator - 7 - Sun 2"
+        ],
+        "Firearms": [
+            "AE - Firearms - 7 - Sunday - 1",
+            "AE - Firearms - 7 - Sunday - 2",
+            "AE - Firearms - 7 - Sunday - 3",
+            "AE - Firearms - 7 - Sunday - 4"
+        ],
+        "Level 1 Public Order": [
+            "AE - Level 1 Public Order - 7 - Sun 1",
+            "AE - Level 1 Public Order - 7 - Sun 2"
+        ],
+        "Level 2 Public Order": [
+            "AE - Level 2 Public Order - 7 - Sun 1",
+            "AE - Level 2 Public Order - 7 - Sun 2"
+        ],
+        "Mounted Police": [
+            "AE - Mounted Police - 7 - Sun 1",
+            "AE - Mounted Police - 7 - Sun 2"
+        ],
+        "Police Aviation": [
+            "AE - Police Aviation - 7 - Sunday - 1",
+            "AE - Police Aviation - 7 - Sunday - 2"
+        ],
+        "Police Inspector": [
+            "AE - Police Inspector - 7 - Sun 1",
+            "AE - Police Inspector - 7 - Sun 2"
+        ],
+        "Police Medic": [
+            "AE - Police Medic - 7 - Sun 1",
+            "AE - Police Medic - 7 - Sun 2"
+        ],
+        "Police Search Advisor": [
+            "AE - Police Search Advisor - 7 - Sun - 1",
+            "AE - Police Search Advisor - 7 - Sun - 2",
+            "AE - Police Search Advisor - 7 - Sun 3",
+            "AE - Police Search Advisor - 7 - Sun 4"
+        ],
+        "Police Sergeant": [
+            "AE - Police Sergeant - 7 - Sun 1",
+            "AE - Police Sergeant - 7 - Sun 2"
+        ],
+        "Roads Policing": [
+            "AE - Roads Policing - 7 - Sunday - 1",
+            "AE - Roads Policing - 7 - Sunday - 2"
+        ]
+    }
+}

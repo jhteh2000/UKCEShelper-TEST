@@ -1,0 +1,384 @@
+{
+    "Monday": {
+        "Coastal Air Rescue": [
+            "AI - Coastal Air Rescue - 1 - Monday - 1",
+            "AI - Coastal Air Rescue - 1 - Monday - 2",
+            "AI - Coastal Air Rescue - 1 - Monday - 3",
+            "AI - Coastal Air Rescue - 1 - Monday - 4"
+        ],
+        "Coastal Command": [
+            "AI - Coastal Command - 1 - Mon - 1",
+            "AI - Coastal Command - 1 - Mon - 2",
+            "AI - Coastal Command - 1 - Mon - 3",
+            "AI - Coastal Command - 1 - Mon - 4"
+        ],
+        "Coastal Search Advis": [
+            "AI- Coastal Search Advis - 1 - Mon - 1",
+            "AI- Coastal Search Advis - 1 - Mon - 2"
+        ],
+        "Drone Operator": [
+            "AI- Drone Operator - 1 - Mon - 1",
+            "AI- Drone Operator - 1 - Mon - 2"
+        ],
+        "Flood First Responder": [
+            "AI- Flood First Responder - 1 - Mon - 1",
+            "AI- Flood First Responder - 1 - Mon - 2"
+        ],
+        "Hovercraft Command": [
+            "AI- Hovercraft Command - 1 - Mon - 1",
+            "AI- Hovercraft Command - 1 - Mon - 2"
+        ],
+        "Jet Ski Handling": [
+            "AI- Jet Ski Handling - 1 - Mon - 1",
+            "AI- Jet Ski Handling - 1 - Mon - 2"
+        ],
+        "Lifeboat Operations": [
+            "AI - Lifeboat Operations - 1 - Mon - 1",
+            "AI - Lifeboat Operations - 1 - Mon - 2",
+            "AI - Lifeboat Operations - 1 - Mon - 3",
+            "AI - Lifeboat Operations - 1 - Mon - 4"
+        ],
+        "Lifeguard Training": [
+            "AI- Lifeguard Training - 1 - Mon - 1",
+            "AI- Lifeguard Training - 1 - Mon - 2"
+        ],
+        "Mud Rescue": [
+            "AI - Mud Rescue - 1 - Mon - 1",
+            "AI - Mud Rescue - 1 - Mon - 2"
+        ],
+        "Rope Rescue": [
+            "AI - Rope Rescue - 1 - Mon - 1",
+            "AI - Rope Rescue - 1 - Mon - 2",
+            "AI - Rope Rescue - 1 - Mon - 3",
+            "AI - Rope Rescue - 1 - Mon - 4"
+        ],
+        "SAR Search Management": [
+            "AI - SAR Search Management - 1 - Mon - 1",
+            "AI - SAR Search Management - 1 - Mon - 2"
+        ]
+    },
+    "Tuesday": {
+        "Coastal Air Rescue": [
+            "AI - Coastal Air Rescue - 2 - Tues - 1",
+            "AI - Coastal Air Rescue - 2 - Tues - 2",
+            "AI - Coastal Air Rescue - 2 - Tues - 3",
+            "AI - Coastal Air Rescue - 2 - Tues - 4"
+        ],
+        "Coastal Command": [
+            "AI - Coastal Command - 2 - Tue - 1",
+            "AI - Coastal Command - 2 - Tue - 2",
+            "AI - Coastal Command - 2 - Tue - 3",
+            "AI - Coastal Command - 2 - Tue - 4"
+        ],
+        "Coastal Search Advis": [
+            "AI- Coastal Search Advis - 2 - Tue - 1",
+            "AI- Coastal Search Advis - 2 - Tue - 2"
+        ],
+        "Drone Operator": [
+            "AI- Drone Operator - 2 - Tue - 1",
+            "AI- Drone Operator - 2 - Tue - 2"
+        ],
+        "Flood First Responder": [
+            "AI- Flood First Responder - 2 - Tue - 1",
+            "AI- Flood First Responder - 2 - Tue - 2"
+        ],
+        "Hovercraft Command": [
+            "AI- Hovercraft Command - 2 - Tue - 1",
+            "AI- Hovercraft Command - 2 - Tue - 2"
+        ],
+        "Jet Ski Handling": [
+            "AI- Jet Ski Handling - 2 - Tue - 1",
+            "AI- Jet Ski Handling - 2 - Tue - 2"
+        ],
+        "Lifeboat Operations": [
+            "AI - Lifeboat Operations - 2 - Tue - 1",
+            "AI - Lifeboat Operations - 2 - Tue - 2",
+            "AI - Lifeboat Operations - 2 - Tue - 3",
+            "AI - Lifeboat Operations - 2 - Tue - 4"
+        ],
+        "Lifeguard Training": [
+            "AI- Lifeguard Training - 2 - Tue - 1",
+            "AI- Lifeguard Training - 2 - Tue - 2"
+        ],
+        "Mud Rescue": [
+            "AI - Mud Rescue - 2 - Tue - 1",
+            "AI - Mud Rescue - 2 - Tue - 2"
+        ],
+        "Rope Rescue": [
+            "AI - Rope Rescue - 2 - Tue - 1",
+            "AI - Rope Rescue - 2 - Tue - 2",
+            "AI - Rope Rescue - 2 - Tue - 3",
+            "AI - Rope Rescue - 2 - Tue - 4"
+        ],
+        "SAR Search Management": [
+            "AI - SAR Search Management - 2 - Tue - 1",
+            "AI - SAR Search Management - 2 - Tue - 2"
+        ]
+    },
+    "Wednesday": {
+        "Coastal Air Rescue": [
+            "AI - Coastal Air Rescue - 3 - Wed - 1",
+            "AI - Coastal Air Rescue - 3 - Wed - 2",
+            "AI - Coastal Air Rescue - 3 - Wed - 3",
+            "AI - Coastal Air Rescue - 3 - Wed - 4"
+        ],
+        "Coastal Command": [
+            "AI - Coastal Command - 3 - Wed - 1",
+            "AI - Coastal Command - 3 - Wed - 2",
+            "AI - Coastal Command - 3 - Wed - 3",
+            "AI - Coastal Command - 3 - Wed - 4"
+        ],
+        "Coastal Search Advis": [
+            "AI- Coastal Search Advis - 3 - Wed - 1",
+            "AI- Coastal Search Advis - 3 - Wed - 2"
+        ],
+        "Drone Operator": [
+            "AI- Drone Operator - 3 - Wed - 1",
+            "AI- Drone Operator - 3 - Wed - 2"
+        ],
+        "Flood First Responder": [
+            "AI- Flood First Responder - 3 - Wed - 1",
+            "AI- Flood First Responder - 3 - Wed - 2"
+        ],
+        "Hovercraft Command": [
+            "AI- Hovercraft Command - 3 - Wed - 1",
+            "AI- Hovercraft Command - 3 - Wed - 2"
+        ],
+        "Jet Ski Handling": [
+            "AI- Jet Ski Handling - 3 - Wed - 1",
+            "AI- Jet Ski Handling - 3 - Wed - 2"
+        ],
+        "Lifeboat Operations": [
+            "AI - Lifeboat Operations - 3 - Wed - 1",
+            "AI - Lifeboat Operations - 3 - Wed - 2",
+            "AI - Lifeboat Operations - 3 - Wed - 3",
+            "AI - Lifeboat Operations - 3 - Wed - 4"
+        ],
+        "Lifeguard Training": [
+            "AI- Lifeguard Training - 3 - Wed - 1",
+            "AI- Lifeguard Training - 3 - Wed - 2"
+        ],
+        "Mud Rescue": [
+            "AI - Mud Rescue - 3 - Wed - 1",
+            "AI - Mud Rescue - 3 - Wed - 2"
+        ],
+        "Rope Rescue": [
+            "AI - Rope Rescue - 3 - Wed - 1",
+            "AI - Rope Rescue - 3 - Wed - 2",
+            "AI - Rope Rescue - 3 - Wed - 3",
+            "AI - Rope Rescue - 3 - Wed - 4"
+        ],
+        "SAR Search Management": [
+            "AI - SAR Search Management - 3 - Wed - 1",
+            "AI - SAR Search Management - 3 - Wed - 2"
+        ]
+    },
+    "Thursday": {
+        "Coastal Air Rescue": [
+            "AI - Coastal Air Rescue - 4 - Thur - 1",
+            "AI - Coastal Air Rescue - 4 - Thur - 2",
+            "AI - Coastal Air Rescue - 4 - Thur - 3",
+            "AI - Coastal Air Rescue - 4 - Thur - 4"
+        ],
+        "Coastal Command": [
+            "AI - Coastal Command - 4 - Thur - 1",
+            "AI - Coastal Command - 4 - Thur - 2",
+            "AI - Coastal Command - 4 - Thur - 3",
+            "AI - Coastal Command - 4 - Thur - 4"
+        ],
+        "Coastal Search Advis": [
+            "AI- Coastal Search Advis - 4 - Thur - 1",
+            "AI- Coastal Search Advis - 4 - Thur - 2"
+        ],
+        "Drone Operator": [
+            "AI- Drone Operator - 4 - Thur - 1",
+            "AI- Drone Operator - 4 - Thur - 2"
+        ],
+        "Flood First Responder": [
+            "AI- Flood First Responder - 4 - Thur - 1",
+            "AI- Flood First Responder - 4 - Thur - 2"
+        ],
+        "Hovercraft Command": [
+            "AI- Hovercraft Command - 4 - Thur - 1",
+            "AI- Hovercraft Command - 4 - Thur - 2"
+        ],
+        "Jet Ski Handling": [
+            "AI- Jet Ski Handling - 4 - Thur - 1",
+            "AI- Jet Ski Handling - 4 - Thur - 2"
+        ],
+        "Lifeboat Operations": [
+            "AI - Lifeboat Operations - 4 - Thur - 1",
+            "AI - Lifeboat Operations - 4 - Thur - 2",
+            "AI - Lifeboat Operations - 4 - Thur - 3",
+            "AI - Lifeboat Operations - 4 - Thur - 4"
+        ],
+        "Lifeguard Training": [
+            "AI- Lifeguard Training - 4 - Thur - 1",
+            "AI- Lifeguard Training - 4 - Thur - 2"
+        ],
+        "Mud Rescue": [
+            "AI - Mud Rescue - 4 - Thu - 1",
+            "AI - Mud Rescue - 4 - Thu - 2"
+        ],
+        "Rope Rescue": [
+            "AI - Rope Rescue - 4 - Thur - 1",
+            "AI - Rope Rescue - 4 - Thur - 2",
+            "AI - Rope Rescue - 4 - Thur - 3",
+            "AI - Rope Rescue - 4 - Thur - 4"
+        ],
+        "SAR Search Management": [
+            "AI - SAR Search Management - 4 - Thu - 1",
+            "AI - SAR Search Management - 4 - Thu - 2"
+        ]
+    },
+    "Friday": {
+        "Coastal Air Rescue": [
+            "AI - Coastal Air Rescue - 5 - Fri - 1",
+            "AI - Coastal Air Rescue - 5 - Fri - 2"
+        ],
+        "Coastal Command": [
+            "AI - Coastal Command - 5 - Fri - 1",
+            "AI - Coastal Command - 5 - Fri - 2"
+        ],
+        "Coastal Search Advis": [
+            "AI- Coastal Search Advis - 5 - Fri - 1",
+            "AI- Coastal Search Advis - 5 - Fri - 2"
+        ],
+        "Drone Operator": [
+            "AI- Drone Operator - 5 - Fri - 1",
+            "AI- Drone Operator - 5 - Fri - 2"
+        ],
+        "Flood First Responder": [
+            "AI- Flood First Responder - 5 - Fri - 1",
+            "AI- Flood First Responder - 5 - Fri - 2"
+        ],
+        "Hovercraft Command": [
+            "AI- Hovercraft Command - 5 - Fri - 1",
+            "AI- Hovercraft Command - 5 - Fri - 2"
+        ],
+        "Jet Ski Handling": [
+            "AI- Jet Ski Handling - 5 - Fri - 1",
+            "AI- Jet Ski Handling - 5 - Fri - 2"
+        ],
+        "Lifeboat Operations": [
+            "AI - Lifeboat Operations - 5 - Fri - 1",
+            "AI - Lifeboat Operations - 5 - Fri - 2"
+        ],
+        "Lifeguard Training": [
+            "AI- Lifeguard Training - 5 - Fri - 1",
+            "AI- Lifeguard Training - 5 - Fri - 2"
+        ],
+        "Mud Rescue": [
+            "AI - Mud Rescue - 5 - Fri - 1",
+            "AI - Mud Rescue - 5 - Fri - 2"
+        ],
+        "Rope Rescue": [
+            "AI - Rope Rescue - 5 - Fri - 1",
+            "AI - Rope Rescue - 5 - Fri - 2"
+        ],
+        "SAR Search Management": [
+            "AI - SAR Search Management - 5 - Fri - 1",
+            "AI - SAR Search Management - 5 - Fri - 2"
+        ]
+    },
+    "Saturday": {
+        "Coastal Air Rescue": [
+            "AI - Coastal Air Rescue - 6 - Sat - 1",
+            "AI - Coastal Air Rescue - 6 - Sat - 2"
+        ],
+        "Coastal Command": [
+            "AI - Coastal Command - 6 - Sat - 1",
+            "AI - Coastal Command - 6 - Sat - 2"
+        ],
+        "Coastal Search Advis": [
+            "AI- Coastal Search Advis - 6 - Sat - 1",
+            "AI- Coastal Search Advis - 6 - Sat - 2"
+        ],
+        "Drone Operator": [
+            "AI- Drone Operator - 6 - Sat - 1",
+            "AI- Drone Operator - 6 - Sat - 2"
+        ],
+        "Flood First Responder": [
+            "AI- Flood First Responder - 6 - Sat - 1",
+            "AI- Flood First Responder - 6 - Sat - 2"
+        ],
+        "Hovercraft Command": [
+            "AI- Hovercraft Command - 6 - Sat - 1",
+            "AI- Hovercraft Command - 6 - Sat - 2"
+        ],
+        "Jet Ski Handling": [
+            "AI- Jet Ski Handling - 6 - Sat - 1",
+            "AI- Jet Ski Handling - 6 - Sat - 2"
+        ],
+        "Lifeboat Operations": [
+            "AI - Lifeboat Operations - 6 - Sat - 1",
+            "AI - Lifeboat Operations - 6 - Sat - 2"
+        ],
+        "Lifeguard Training": [
+            "AI- Lifeguard Training - 6 - Sat - 1",
+            "AI- Lifeguard Training - 6 - Sat - 2"
+        ],
+        "Mud Rescue": [
+            "AI - Mud Rescue - 6 - Sat - 1",
+            "AI - Mud Rescue - 6 - Sat - 2"
+        ],
+        "Rope Rescue": [
+            "AI - Rope Rescue - 6 - Sat - 1",
+            "AI - Rope Rescue - 6 - Sat - 2"
+        ],
+        "SAR Search Management": [
+            "AI - SAR Search Management - 6 - Sat - 1",
+            "AI - SAR Search Management - 6 - Sat - 2"
+        ]
+    },
+    "Sunday": {
+        "Coastal Air Rescue": [
+            "AI - Coastal Air Rescue - 7 - Sun - 1",
+            "AI - Coastal Air Rescue - 7 - Sun - 2"
+        ],
+        "Coastal Command": [
+            "AI - Coastal Command - 7 - Sun - 1",
+            "AI - Coastal Command - 7 - Sun - 2"
+        ],
+        "Coastal Search Advis": [
+            "AI- Coastal Search Advis - 7 - Sun - 1",
+            "AI- Coastal Search Advis - 7 - Sun - 2"
+        ],
+        "Drone Operator": [
+            "AI- Drone Operator - 7 - Sun - 1",
+            "AI- Drone Operator - 7 - Sun - 2"
+        ],
+        "Flood First Responder": [
+            "AI- Flood First Responder - 7 - Sun - 1",
+            "AI- Flood First Responder - 7 - Sun - 2"
+        ],
+        "Hovercraft Command": [
+            "AI- Hovercraft Command - 7 - Sun -1",
+            "AI- Hovercraft Command - 7 - Sun - 2"
+        ],
+        "Jet Ski Handling": [
+            "AI- Jet Ski Handling - 7 - Sun - 1",
+            "AI- Jet Ski Handling - 7 - Sun - 2"
+        ],
+        "Lifeboat Operations": [
+            "AI - Lifeboat Operations - 7 - Sun - 1",
+            "AI - Lifeboat Operations - 7 - Sun - 2"
+        ],
+        "Lifeguard Training": [
+            "AI- Lifeguard Training - 7 - Sun - 1",
+            "AI- Lifeguard Training - 7 - Sun - 2"
+        ],
+        "Mud Rescue": [
+            "AI - Mud Rescue - 7 - Sun - 1",
+            "AI - Mud Rescue - 7 - Sun - 2"
+        ],
+        "Rope Rescue": [
+            "AI- Rope Rescue - 7 - Sun - 1",
+            "AI- Rope Rescue - 7 - Sun - 2"
+        ],
+        "SAR Search Management": [
+            "AI - SAR Search Management - 7 - Sun - 1",
+            "AI - SAR Search Management - 7 - Sun - 2"
+        ]
+    }
+}
