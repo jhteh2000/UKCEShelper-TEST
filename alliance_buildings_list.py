@@ -67,7 +67,7 @@ def create_course_dict(service: str):
 
 
 driver = launch_driver()
-driver.get("https://missionchief.co.uk/verband/gebauede")
+driver.get("https://police.missionchief.co.uk/verband/gebauede")
 
 # Search attribute: EMS = AD, Police = AE, Fire = AF, Lifeboat = AI
 buildings = driver.find_elements(By.CSS_SELECTOR, "[search_attribute^='AD']")

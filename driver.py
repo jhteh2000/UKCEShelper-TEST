@@ -32,9 +32,9 @@ def loadCookies(driver):
 
 async def launch_driver():
     options = ChromeOptions()
-    # With Chrome UI (for testing)
     options.add_argument("--window-size=1920,1080")
-    options.add_experimental_option("detach", True)
+    # With Chrome UI (for testing, disable this for raspberry pi)
+    # options.add_experimental_option("detach", True)
     # Without Chrome UI (for production, not working for raspberry pi)
     # options.add_argument("--headless=new")
 
@@ -48,7 +48,7 @@ async def launch_driver():
     await asyncio.sleep(1)
     # driver.minimize_window()
 
-    driver.get("https://missionchief.co.uk/users/sign_in")
+    driver.get("https://police.missionchief.co.uk/users/sign_in")
     await asyncio.sleep(1)
     loadCookies(driver)
     await asyncio.sleep(1)

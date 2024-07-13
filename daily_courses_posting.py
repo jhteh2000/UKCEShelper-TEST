@@ -68,7 +68,7 @@ async def start_course(driver: Chrome, service: str, building_name: str, course:
         except:
             # If page not loaded, wait for 5 seconds then reload the page
             await asyncio.sleep(5)
-            driver.get("https://missionchief.co.uk/verband/gebauede")
+            driver.get("https://police.missionchief.co.uk/verband/gebauede")
             await asyncio.sleep(1)
         else:
             # Exit while loop if page loaded successfully
@@ -141,8 +141,8 @@ async def start_course(driver: Chrome, service: str, building_name: str, course:
         error_message = e
 
     await asyncio.sleep(1)
-    if driver.current_url != "https://missionchief.co.uk/verband/gebauede":
-        driver.get("https://missionchief.co.uk/verband/gebauede")
+    if driver.current_url != "https://police.missionchief.co.uk/verband/gebauede":
+        driver.get("https://police.missionchief.co.uk/verband/gebauede")
         await asyncio.sleep(1)
     return status, error_message
 
@@ -158,7 +158,7 @@ async def post_daily_course(
     buildings_to_post = buildings[day_to_post]
 
     driver = await launch_driver()
-    driver.get("https://missionchief.co.uk/verband/gebauede")
+    driver.get("https://police.missionchief.co.uk/verband/gebauede")
     await asyncio.sleep(1)
 
     daily_courses = list(ALL_EDUCATION_KEYS[service].keys())

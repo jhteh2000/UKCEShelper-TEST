@@ -35,14 +35,21 @@ class MCGame(app_commands.Group):
                 )
             case "browser":
                 await interaction.response.send_message("[TEST] Opening browser...")
+                
                 try:
                     driver = await launch_driver()
                     await interaction.channel.send(content="Browser opened")
-                    await asyncio.sleep(10)
+                except:
+                    await interaction.channel.send(content="Failed to open browser")
+
+                await asyncio.sleep(10)
+
+                try:
                     driver.quit()
                     await interaction.channel.send(content="Browser closed")
                 except:
-                    await interaction.channel.send(content="Failed to open browser")
+                    await interaction.channel.send(content="Failed to close browser")
+
                 await interaction.channel.send(content="Test complete")
             case _:
                 await interaction.response.send_message(
@@ -105,5 +112,5 @@ class MCGame(app_commands.Group):
         await interaction.response.send_message(
             "[EARLY STAGE] This currently only works for patient transport and only if all the units are offline\nClearing transport..."
         )
-        mission_url = mission_url.replace("police.", "")
+        # mission_url = mission_url.replace("police.", "")
         await clear_transport(interaction, mission_url)
